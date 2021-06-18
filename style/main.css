@@ -75,7 +75,6 @@ h1.title {
     color: #eee4da; }
   .score-container .score-addition, .best-container .score-addition {
     position: absolute;
-    padding: 15px;
     right: 30px;
     color: red;
     font-size: 25px;
@@ -91,10 +90,10 @@ h1.title {
     animation-fill-mode: both; }
 
 .score-container:after {
-  content: "ТЕКУЩИЙ СЧЕТ"; }
+  content: "СЧЕТ"; }
 
 .best-container:after {
-  content: "ЛУЧШИЙ"; }
+  content: "ТОП #1"; }
 
 p {
   margin-top: 0;
