@@ -65,6 +65,7 @@ h1.title {
   text-align: center; }
   .score-container:after, .best-container:after {
     position: absolute;
+    font-size: 20px;
     width: 100%;
     top: 10px;
     left: 0;
